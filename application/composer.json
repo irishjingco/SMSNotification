@@ -1,0 +1,13 @@
+{
+    "name": "irishjingco/march242018",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Irish Jingco",
+            "email": "irishjingco@gmail.com"
+        }
+    ],
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
